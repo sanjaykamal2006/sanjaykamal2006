@@ -1,5 +1,5 @@
-# 💫 About Me:
-Building fast, real-time web apps that solve everyday problems. <br>Currently shipping **[LOOP](https://loop-demo-app.vercel.app/)** — a purpose-built campus transit platform.<br><br>- 💻 **Stack:** Next.js • TypeScript • Tailwind CSS • Supabase • PostgreSQL<br>- ⚡ **Focus:** Mobile-first UX & Real-time systems
+# About Me:
+Building fast, real-time web apps that solve everyday problems. <br>Currently shipping **[LOOP](https://loop-demo-app.vercel.app/)** — a purpose-built campus transit platform.<br><br>-  **Stack:** Next.js • TypeScript • Tailwind CSS • Supabase • PostgreSQL<br>-  **Focus:** Mobile-first UX & Real-time systems
 
 
 ## 🌐 Socials:
